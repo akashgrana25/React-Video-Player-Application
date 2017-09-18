@@ -7,6 +7,7 @@
     "test": "test"
   },
   "scripts": {
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Akash Rana",
@@ -35,6 +36,4 @@
     "redux": "^3.0.4",
     "youtube-api-search": "0.0.5"
   }
-
 }
-

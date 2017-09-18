@@ -45,13 +45,6 @@ class App extends Component{
 }
 
 
-// const App = () => {
-//   return (
-//     <div>
-//       <SearchBar />
-//   </div>
-// );
-// }
 //Take this compoent generated HTML and put it into DOM
 
 ReactDOM.render(<App />, document.querySelector('.container'));
