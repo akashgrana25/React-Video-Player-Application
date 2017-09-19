@@ -13,7 +13,7 @@ The application uses these technologies:
 
 ### Installation
 
-Dillinger requires [React.js](https://facebook.github.io/react/) v0.14.3+ to run.
+This application requires [React.js](https://facebook.github.io/react/) v0.14.3+ to run.
 
 Install the dependencies and devDependencies using:
 
